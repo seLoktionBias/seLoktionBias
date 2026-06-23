@@ -16,3 +16,14 @@
 </picture>
 
 </div>
+
+
+## 🛠️ Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/R-567AF7?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-567AF7?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-567AF7?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-567AF7?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextflow-567AF7?style=flat-square" />
+</p>
